@@ -1,0 +1,11 @@
+campaign_id,name,channel,start_date,end_date,budget_usd
+1,Campaign 1 - Growth,partnership,2023-11-24,2024-01-21,33728.49
+2,Campaign 2 - Growth,partnership,2023-04-25,2023-06-29,89139.46
+3,Campaign 3 - Acq,organic,2023-10-07,2023-11-28,4545.87
+4,Campaign 4 - Growth,referral,2023-04-22,2023-07-20,24661.68
+5,Campaign 5 - Acq,paid_search,2023-11-29,2024-05-16,54455.88
+6,Campaign 6 - Brand,partnership,2023-05-23,2023-06-23,51291.11
+7,Campaign 7 - Brand,facebook,2023-05-23,2023-07-31,13163.02
+8,Campaign 8 - Region,facebook,2023-07-14,2023-09-06,72843.4
+9,Campaign 9 - Growth,email,2023-01-23,2023-06-19,10377.22
+10,Campaign 10 - Brand,partnership,2023-05-31,2023-09-30,9277.06
