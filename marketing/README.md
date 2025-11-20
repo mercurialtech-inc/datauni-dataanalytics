@@ -58,36 +58,46 @@ https://lookerstudio.google.com/reporting/d32d1831-28ad-4826-abbd-16528cdcd557
 ---
 
 ## Project Structure
-marketing/
-  datasets/
-      - marketing_campaigns.csv
-      - marketing_leads.csv
-      - ad_spend.csv
-      - campaign_name_map.csv
-  ddl/ (table creation scripts)
-      - marketing.mart_marketing_performance.sql
-      - marketing.mart_marketing_performance_channel.sql
-      - marketing.mart_marketing_performance_consolidated.sql
-      - marketing.stg_campaign_name_map.sql
-      - marketing.stg_marketing_ad_spend.sql
-      - marketing.stg_marketing_campaigns.sql
-      - marketing.stg_marketing_leads.sql
-  etl/ (data load / transformation scripts)
-      - marketing.mart_marketing_performance_consolidated__insert.sql
-      - marketing.stg_campaign_name_map__insert.sql
-      - marketing.stg_marketing_ad_spend__insert.sql
-      - marketing.stg_marketing_campaigns__insert.sql
-      - marketing.stg_marketing_leads__insert.sql
-  docs/
-      - Marketing Performance Executive Summary.pdf
-      - DataOrb Marketing Dashboard.pdf
-  images/
-      - KPI.png
-      - Campaign.png
-      - Lead Quality.png
-      - Funnel Breakdown.png
-      - Monthly Trend.png
-      - Campaign Efficiency.png
-  README.md
 
+Organized, modular, and reproducible end-to-end analytics workflow:
 
+### datasets/
+- marketing_campaigns.csv  
+- marketing_leads.csv  
+- ad_spend.csv  
+- campaign_name_map.csv  
+
+### ddl/  
+Table creation scripts for all staging & mart layers:
+- stg_marketing_campaigns.sql  
+- stg_marketing_leads.sql  
+- stg_marketing_ad_spend.sql  
+- stg_campaign_name_map.sql  
+- mart_marketing_performance.sql  
+- mart_marketing_performance_channel.sql  
+- mart_marketing_performance_consolidated.sql  
+
+### etl/  
+Data load & transformation SQL:
+- stg_marketing_campaigns__insert.sql  
+- stg_marketing_leads__insert.sql  
+- stg_marketing_ad_spend__insert.sql  
+- stg_campaign_name_map__insert.sql  
+- mart_marketing_performance_consolidated__insert.sql  
+
+### docs/  
+Project documentation:
+- Marketing Performance Executive Summary (PDF)  
+- Dashboard (PDF snapshot)  
+
+### images/  
+Dashboard section visuals:
+- KPI.png  
+- Campaign.png  
+- Lead Quality.png  
+- Funnel Breakdown.png  
+- Monthly Trend.png  
+- Campaign Efficiency.png  
+
+### README.md  
+Full project explanation, setup steps & dashboard links.
