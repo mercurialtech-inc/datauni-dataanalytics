@@ -1,0 +1,36 @@
+subscription_id,deal_id,plan_id,plan_name,mrr_usd,start_date,end_date,status
+SUB_D4871_1,D4871_1,S004,Youth Development Package,450,2026-01-01,2026-10-10,canceled
+SUB_D3384_1,D3384_1,S005,Scouting & Recruitment Suite,1000,2025-01-08,,active
+SUB_D1773_2,D1773_2,S003,Elite Club Intelligence,1500,2024-12-14,,active
+SUB_D4023_1,D4023_1,S002,Advanced Performance Suite,800,2025-06-21,,active
+SUB_D4023_2,D4023_2,S001,Basic Analytics Subscription,300,2025-01-07,,active
+SUB_D3398_3,D3398_3,S003,Elite Club Intelligence,1500,2025-08-30,,active
+SUB_D542_1,D542_1,S004,Youth Development Package,450,2025-10-24,,active
+SUB_D542_3,D542_3,S003,Elite Club Intelligence,1500,2025-10-09,2026-05-22,canceled
+SUB_D4289_2,D4289_2,S004,Youth Development Package,450,2025-09-26,,active
+SUB_D740_1,D740_1,S001,Basic Analytics Subscription,300,2025-12-09,,active
+SUB_D1110_2,D1110_2,S001,Basic Analytics Subscription,300,2024-09-02,,active
+SUB_D1110_3,D1110_3,S005,Scouting & Recruitment Suite,1000,2024-10-14,2025-06-14,canceled
+SUB_D4777_1,D4777_1,S005,Scouting & Recruitment Suite,1000,2024-07-01,2024-09-25,canceled
+SUB_D4013_3,D4013_3,S001,Basic Analytics Subscription,300,2025-10-30,,active
+SUB_D4824_1,D4824_1,S003,Elite Club Intelligence,1500,2025-08-01,,active
+SUB_D1360_3,D1360_3,S005,Scouting & Recruitment Suite,1000,2025-09-08,,active
+SUB_D1901_3,D1901_3,S001,Basic Analytics Subscription,300,2026-03-14,2026-09-21,canceled
+SUB_D1873_1,D1873_1,S003,Elite Club Intelligence,1500,2026-02-13,,active
+SUB_D1873_3,D1873_3,S003,Elite Club Intelligence,1500,2026-04-23,2027-02-14,canceled
+SUB_D2206_2,D2206_2,S002,Advanced Performance Suite,800,2026-01-16,,active
+SUB_D3453_1,D3453_1,S003,Elite Club Intelligence,1500,2025-10-09,2026-08-26,canceled
+SUB_D4554_3,D4554_3,S002,Advanced Performance Suite,800,2025-03-02,,active
+SUB_D2172_1,D2172_1,S005,Scouting & Recruitment Suite,1000,2024-12-12,,active
+SUB_D2172_2,D2172_2,S002,Advanced Performance Suite,800,2024-10-18,,active
+SUB_D2537_1,D2537_1,S004,Youth Development Package,450,2025-02-24,,active
+SUB_D2537_2,D2537_2,S002,Advanced Performance Suite,800,2025-05-26,,active
+SUB_D3662_1,D3662_1,S001,Basic Analytics Subscription,300,2025-08-27,2026-03-21,canceled
+SUB_D3662_2,D3662_2,S002,Advanced Performance Suite,800,2026-02-02,2026-04-23,canceled
+SUB_D1894_1,D1894_1,S003,Elite Club Intelligence,1500,2025-08-04,2026-04-30,canceled
+SUB_D951_1,D951_1,S005,Scouting & Recruitment Suite,1000,2025-06-17,2026-05-07,canceled
+SUB_D2568_2,D2568_2,S003,Elite Club Intelligence,1500,2025-11-27,,active
+SUB_D2568_3,D2568_3,S003,Elite Club Intelligence,1500,2026-01-20,,active
+SUB_D2504_3,D2504_3,S001,Basic Analytics Subscription,300,2025-06-29,,active
+SUB_D1208_2,D1208_2,S005,Scouting & Recruitment Suite,1000,2025-03-12,,active
+SUB_D1945_2,D1945_2,S004,Youth Development Package,450,2025-05-16,,active

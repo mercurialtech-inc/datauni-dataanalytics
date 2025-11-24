@@ -1,0 +1,18 @@
+club_id,club_name_raw,club_name_clean,city,country,league,tier,is_premier_league
+CLB001,Arsenal,Arsenal,London,England,Premier League,1,True
+CLB002,Aston Villa,Aston Villa,Birmingham,England,Premier League,1,True
+CLB003,Bournemouth,Bournemouth,Bournemouth,England,Premier League,1,True
+CLB004,Brentford,Brentford,London,England,Premier League,1,True
+CLB005,Brighton & Hove Albion,Brighton,Brighton,England,Premier League,1,True
+CLB006,Chelsea FC,Chelsea,London,England,Premier League,1,True
+CLB007,Everton,Everton,Liverpool,England,Premier League,1,True
+CLB008,Leeds United,Leeds United,Leeds,England,Championship,2,False
+CLB009,Leicester City,Leicester City,Leicester,England,Premier League,1,True
+CLB010,Liverpool FC,Liverpool,Liverpool,England,Premier League,1,True
+CLB011,Manchester United,Manchester United,Manchester,England,Premier League,1,True
+CLB012,Newcastle United,Newcastle United,Newcastle upon Tyne,England,Premier League,1,True
+CLB013,Norwich City,Norwich City,Norwich,England,Championship,2,False
+CLB014,Sheffield United,Sheffield United,Sheffield,England,Championship,2,False
+CLB015,Tottenham Hotspur,Tottenham Hotspur,London,England,Premier League,1,True
+CLB016,Watford,Watford,Watford,England,Championship,2,False
+CLB017,West Ham United,West Ham United,London,England,Premier League,1,True

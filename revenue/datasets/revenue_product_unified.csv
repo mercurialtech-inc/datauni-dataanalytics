@@ -1,0 +1,16 @@
+product_key,product_name,product_category,price_usd,product_type
+P001,Match Performance Report,Analytics Report,500,one_time
+P002,Fan Engagement Analysis,Analytics Report,1200,one_time
+P003,Sponsorship ROI Audit,Financial Analysis,3000,one_time
+P004,Player Scouting Dashboard,Data Dashboard,4500,one_time
+P005,Club Financial Benchmarking,Financial Analysis,6000,one_time
+P006,Youth Academy Analytics,Analytics Report,2500,one_time
+P007,Elite Data API Access,Subscription Add-on,800,one_time
+P008,Match Prediction Engine,AI Product,3500,one_time
+P009,Performance Data Feed,Data Feed,1500,one_time
+P010,Custom Analytics Workshop,Professional Service,2000,one_time
+S004,Youth Development Package,Subscription Plan,450,subscription
+S005,Scouting & Recruitment Suite,Subscription Plan,1000,subscription
+S003,Elite Club Intelligence,Subscription Plan,1500,subscription
+S002,Advanced Performance Suite,Subscription Plan,800,subscription
+S001,Basic Analytics Subscription,Subscription Plan,300,subscription
