@@ -1,0 +1,109 @@
+player_name,club_name,position_role,position_group,starter,age,preferred_foot,market_value_eur
+David Raya,Arsenal,GK,GK,TRUE,29,Right,38000000
+Ben White,Arsenal,RB,DEF,TRUE,27,Right,55000000
+William Saliba,Arsenal,CB,DEF,TRUE,24,Right,90000000
+Gabriel Magalhaes,Arsenal,CB,DEF,TRUE,27,Left,55000000
+Oleksandr Zinchenko,Arsenal,LB,DEF,TRUE,28,Right,42000000
+Declan Rice,Arsenal,DM,MID,TRUE,26,Right,120000000
+Martin Odegaard,Arsenal,AM,MID,TRUE,26,Left,110000000
+Jorginho,Arsenal,CM,MID,TRUE,33,Right,15000000
+Bukayo Saka,Arsenal,RW,FWD,TRUE,24,Left,140000000
+Gabriel Martinelli,Arsenal,LW,FWD,TRUE,24,Right,70000000
+Gabriel Jesus,Arsenal,CF,FWD,TRUE,28,Right,45000000
+Takehiro Tomiyasu,Arsenal,RB/CB,DEF,FALSE,27,Right,35000000
+Jakub Kiwior,Arsenal,CB/LB,DEF,FALSE,25,Left,25000000
+Thomas Partey,Arsenal,DM,MID,FALSE,32,Right,18000000
+Emile Smith Rowe,Arsenal,AM,MID,FALSE,25,Right,22000000
+Leandro Trossard,Arsenal,LW/CF,FWD,FALSE,30,Right,25000000
+Eddie Nketiah,Arsenal,CF,FWD,FALSE,26,Right,30000000
+Aaron Ramsdale,Arsenal,GK,GK,FALSE,27,Right,40000000
+Emiliano Martinez,Aston Villa,GK,GK,TRUE,33,Right,28000000
+Matty Cash,Aston Villa,RB,DEF,TRUE,28,Right,25000000
+Ezri Konsa,Aston Villa,CB,DEF,TRUE,27,Right,45000000
+Pau Torres,Aston Villa,CB,DEF,TRUE,28,Left,35000000
+Alex Moreno,Aston Villa,LB,DEF,TRUE,32,Left,20000000
+Douglas Luiz,Aston Villa,DM,MID,TRUE,27,Right,60000000
+Boubacar Kamara,Aston Villa,DM,MID,TRUE,25,Right,45000000
+John McGinn,Aston Villa,CM,MID,TRUE,30,Left,28000000
+Leon Bailey,Aston Villa,RW,FWD,TRUE,28,Left,35000000
+Moussa Diaby,Aston Villa,LW/FW,FWD,TRUE,25,Right,50000000
+Ollie Watkins,Aston Villa,CF,FWD,TRUE,29,Right,60000000
+Diego Carlos,Aston Villa,CB,DEF,FALSE,32,Right,15000000
+Tyrone Mings,Aston Villa,CB,DEF,FALSE,32,Left,12000000
+Youri Tielemans,Aston Villa,CM,MID,FALSE,28,Right,25000000
+Jacob Ramsey,Aston Villa,CM/MID,FALSE,24,Right,35000000
+Jhon Duran,Aston Villa,CF,FWD,FALSE,21,Right,25000000
+Nicolo Zaniolo,Aston Villa,AM,FWD,FALSE,26,Left,20000000
+Robin Olsen,Aston Villa,GK,GK,FALSE,35,Right,2000000
+Robert Sanchez,Chelsea,GK,GK,TRUE,27,Right,25000000
+Reece James,Chelsea,RB,DEF,TRUE,26,Right,50000000
+Wesley Fofana,Chelsea,CB,DEF,TRUE,25,Right,40000000
+Levi Colwill,Chelsea,CB,DEF,TRUE,22,Left,50000000
+Ben Chilwell,Chelsea,LB,DEF,TRUE,28,Left,35000000
+Moises Caicedo,Chelsea,DM,MID,TRUE,24,Right,90000000
+Enzo Fernandez,Chelsea,CM,MID,TRUE,24,Right,70000000
+Cole Palmer,Chelsea,AM/FW,MID,TRUE,22,Left,90000000
+Raheem Sterling,Chelsea,LW,FWD,TRUE,31,Right,35000000
+Nicolas Jackson,Chelsea,CF,FWD,TRUE,24,Right,60000000
+Christopher Nkunku,Chelsea,CF/FW,FWD,TRUE,27,Right,60000000
+Thiago Silva,Chelsea,CB,DEF,FALSE,41,Right,2000000
+Marc Cucurella,Chelsea,LB,DEF,FALSE,27,Left,20000000
+Conor Gallagher,Chelsea,CM,MID,FALSE,25,Right,45000000
+Mykhailo Mudryk,Chelsea,LW,FWD,FALSE,24,Right,40000000
+Armando Broja,Chelsea,CF,FWD,FALSE,24,Right,18000000
+Malo Gusto,Chelsea,RB,DEF,FALSE,22,Right,35000000
+Djordje Petrovic,Chelsea,GK,GK,FALSE,25,Right,20000000
+Alisson Becker,Liverpool,GK,GK,TRUE,33,Right,35000000
+Trent Alexander-Arnold,Liverpool,RB,DEF,TRUE,27,Right,85000000
+Virgil van Dijk,Liverpool,CB,DEF,TRUE,34,Right,25000000
+Ibrahima Konate,Liverpool,CB,DEF,TRUE,26,Right,45000000
+Andy Robertson,Liverpool,LB,DEF,TRUE,31,Left,38000000
+Alexis Mac Allister,Liverpool,CM,MID,TRUE,26,Right,70000000
+Dominik Szoboszlai,Liverpool,AM,MID,TRUE,24,Right,70000000
+Wataru Endo,Liverpool,DM,MID,TRUE,32,Right,9000000
+Mohamed Salah,Liverpool,RW,FWD,TRUE,33,Left,50000000
+Luis Diaz,Liverpool,LW,FWD,TRUE,28,Right,60000000
+Darwin Nunez,Liverpool,CF,FWD,TRUE,25,Right,70000000
+Joel Matip,Liverpool,CB,DEF,FALSE,34,Right,8000000
+Joe Gomez,Liverpool,CB/FB,DEF,FALSE,28,Right,30000000
+Ryan Gravenberch,Liverpool,CM,MID,FALSE,23,Right,35000000
+Curtis Jones,Liverpool,CM,MID,FALSE,25,Right,25000000
+Diogo Jota,Liverpool,LW/CF,FWD,FALSE,28,Right,45000000
+Cody Gakpo,Liverpool,LW/CF,FWD,FALSE,26,Right,45000000
+Caoimhin Kelleher,Liverpool,GK,GK,FALSE,27,Right,15000000
+Andre Onana,Manchester United,GK,GK,TRUE,29,Right,35000000
+Diogo Dalot,Manchester United,RB,DEF,TRUE,26,Right,35000000
+Lisandro Martinez,Manchester United,CB,DEF,TRUE,27,Left,45000000
+Raphael Varane,Manchester United,CB,DEF,TRUE,32,Right,20000000
+Luke Shaw,Manchester United,LB,DEF,TRUE,30,Left,30000000
+Casemiro,Manchester United,DM,MID,TRUE,33,Right,25000000
+Bruno Fernandes,Manchester United,AM,MID,TRUE,31,Right,60000000
+Kobbie Mainoo,Manchester United,CM,MID,TRUE,20,Right,70000000
+Marcus Rashford,Manchester United,LW/FWD,FWD,TRUE,27,Right,70000000
+Alejandro Garnacho,Manchester United,RW,FWD,TRUE,21,Right,60000000
+Rasmus Hojlund,Manchester United,CF,FWD,TRUE,22,Right,65000000
+Victor Lindelof,Manchester United,CB,DEF,FALSE,31,Right,12000000
+Aaron Wan-Bissaka,Manchester United,RB,DEF,FALSE,27,Right,20000000
+Sofyan Amrabat,Manchester United,DM,MID,FALSE,29,Right,18000000
+Christian Eriksen,Manchester United,CM,MID,FALSE,33,Right,10000000
+Antony,Manchester United,RW,FWD,FALSE,25,Left,25000000
+Anthony Martial,Manchester United,CF,FWD,FALSE,29,Right,15000000
+Altay Bayindir,Manchester United,GK,GK,FALSE,27,Right,6000000
+Guglielmo Vicario,Tottenham Hotspur,GK,GK,TRUE,29,Right,35000000
+Pedro Porro,Tottenham Hotspur,RB,DEF,TRUE,26,Right,50000000
+Cristian Romero,Tottenham Hotspur,CB,DEF,TRUE,27,Right,65000000
+Micky van de Ven,Tottenham Hotspur,CB,DEF,TRUE,24,Left,60000000
+Destiny Udogie,Tottenham Hotspur,LB,DEF,TRUE,22,Left,55000000
+Pape Sarr,Tottenham Hotspur,CM,MID,TRUE,22,Right,45000000
+Yves Bissouma,Tottenham Hotspur,DM,MID,TRUE,28,Right,35000000
+James Maddison,Tottenham Hotspur,AM,MID,TRUE,28,Right,70000000
+Dejan Kulusevski,Tottenham Hotspur,RW,FWD,TRUE,25,Left,55000000
+Heung-Min Son,Tottenham Hotspur,LW/FWD,FWD,TRUE,33,Right,30000000
+Richarlison,Tottenham Hotspur,CF,FWD,TRUE,28,Right,35000000
+Ben Davies,Tottenham Hotspur,CB/LB,DEF,FALSE,32,Left,8000000
+Oliver Skipp,Tottenham Hotspur,DM,MID,FALSE,25,Right,20000000
+Giovani Lo Celso,Tottenham Hotspur,AM,MID,FALSE,29,Left,20000000
+Brennan Johnson,Tottenham Hotspur,RW/FWD,FALSE,24,Right,45000000
+Rodrigo Bentancur,Tottenham Hotspur,CM,MID,FALSE,28,Right,30000000
+Ryan Sessegnon,Tottenham Hotspur,LB,LW,FALSE,25,Left,10000000
+Fraser Forster,Tottenham Hotspur,GK,GK,FALSE,37,Right,1000000

@@ -1,0 +1,7 @@
+club_name,customer_type,subscription_tier,subscription_start_date,trial_expiry_date
+Arsenal,paid,Elite+Performance,2023-07-01,
+Liverpool,paid,Elite+Performance,2022-09-15,
+Aston Villa,paid,Elite,2024-01-01,
+Manchester United,freemium,Trial,2025-03-01,2025-06-30
+Chelsea,freemium,Trial,205-03-01,2025-06-30
+Tottenham Hotspur,freemium,Trial,2025-03-01,2025-06-30
