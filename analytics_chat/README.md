@@ -19,7 +19,7 @@ It is an **analytics operating layer** designed to sit on top of real BI infrast
   https://analytics-chat-17391180742.us-central1.run.app/reset_session
 
 - **How to try chat:**  
-  TBD
+  https://github.com/mercurialtech-inc/datauni-dataanalytics/blob/master/analytics_chat/docs/How%20to%20Try%20the%20Analytics%20Chat%20Assistant.pdf
 
 ### Try typing:
 - `Why did CAC increase?`
