@@ -122,6 +122,9 @@ Project documentation:
 - **Analytics Chat Assistant — Executive Summary.pdf**
 - **How to Try the Analytics Chat Assistant.pdf**
 
+### `images/`
+Chat images for revenue, marketing & sports
+
 ---
 
 ## 🛠 Tools Used
